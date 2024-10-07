@@ -1,2 +1,7 @@
 # DemoSite
-My first GIthub respository
+Persona Web Applicaiton Project
+
+Lead Developer: Greg McDonough (mcdonoughg@delawareareacc.org)
+
+Installation Instructions
+
